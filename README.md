@@ -30,7 +30,7 @@
 
 ## 安装链接
   * Loon:
-    * [DNS.plugin](./Beta-Loon?raw=true "Beta-Loon")
+    * [🎾更好的定向](./Beta-Loon?raw=true "Beta-Loon")
   * Quantumult X:
     * [🎾更好的定向](./Beta-QuanX?raw=true "Beta-QuanX")
   * Surge:
