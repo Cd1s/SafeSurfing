@@ -9,6 +9,7 @@
 -
   - [简介](#简介)
   - [关于分流](#关于分流)
+  - [使用说明](#使用说明)
   - [安装链接](#安装链接)
   - [鸣谢列表](#鸣谢列表)
 
@@ -26,6 +27,11 @@
       * 打开91Porn.com为《大悲咒》的YouTube视频
     * WeChat分流为Direct 
     * Google.cn重定向至bing.com 
+
+## 使用说明
+  * 需要启用`重写`、`脚本`、`MitM`功能
+  * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list)
+
 
 
 ## 安装链接
