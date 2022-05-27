@@ -15,3 +15,5 @@ hostname = %APPEND% *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.g
 
 [filter_remote]
 https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list, tag=pn, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+
+host-keyword, porn, reject
