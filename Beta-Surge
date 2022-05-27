@@ -12,7 +12,7 @@
 ^(https?://).*porn.*$ $files.catbox.moe/cii6kp.mp4 302
 
 [MITM]
-hostname = %APPEND% *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn, www.91porn.com, youporn.com
+hostname = %APPEND% *onlyfans.com, *porn*, pornhub.com, 
 
 [Rule]
 # URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,REJECT
