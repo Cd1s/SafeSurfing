@@ -33,6 +33,7 @@
     * [🎾更好的定向](./Beta-Loon?raw=true "Beta-Loon")
   * Quantumult X:
     * [🎾更好的定向](./Beta-QuanX?raw=true "Beta-QuanX")
+     * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list)
   * Surge:
     * [🎾更好的定向](./Beta-Surge?raw=true "Beta-Surge")
 
