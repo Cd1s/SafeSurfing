@@ -14,6 +14,6 @@
 hostname = *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn， www.91porn.com
 
 [Rule]
-URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,Reject
+URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,REJECT
 RULE-SET,https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list,REJECT
-RULE-SET,https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/WeChat.list,direct
+RULE-SET,https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/WeChat.list,DIRECT
