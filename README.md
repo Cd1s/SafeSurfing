@@ -37,4 +37,4 @@
 
 
 ## 鸣谢列表
-@Virgil C（https://github.com/VirgilClyne） 
+@Virgil C(https://github.com/VirgilClyne)
