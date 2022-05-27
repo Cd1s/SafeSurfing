@@ -25,6 +25,7 @@
     * 打开cn.Pornhub.com为《Never Gonna Give You Up》的MV
       * 打开91Porn.com为《大悲咒》的YouTube视频
     * WeChat分流为Direct
+    * Google.cn重定向至bing.com
 
 
 ## 安装链接
