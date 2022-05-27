@@ -30,9 +30,9 @@
 
 ## 安装链接
   * Loon:
-    * [🎾更好的定向](./Beta- Loon?raw=true "Beat- Loon") 
+    * [🎾更好的定向](./Beta-Loon?raw=true "Beat- Loon") 
 * Surge:
-    * [🎾更好的定向](./Beta- Surge?raw=true "Beat- Surge")   
+    * [🎾更好的定向](./Beta-Surge?raw=true "Beat- Surge")   
   * Quantumult X:
     * 暂无
  
