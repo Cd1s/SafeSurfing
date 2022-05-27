@@ -1,4 +1,4 @@
-#!name=🎾更好的定向V0.3
+#!name=🎾更好的定向V0.3.1
 #!desc=为您的网上冲浪护航
 #!author=dhawudh
 #!homepage=https://github.com/duawudh/blob/main/modules/Beta-GoogleVC/README.md
@@ -11,7 +11,7 @@
 ^https://91porn\.com https://youtu.be/3l5Ag1ovRFY header
 
 [MITM]
-hostname = *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn， www.91porn.com
+hostname = %APPEND% *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn， www.91porn.com
 
 [Rule]
 URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,REJECT
