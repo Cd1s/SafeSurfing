@@ -1,6 +1,6 @@
 # 🎾更好的定向
   * 重定向插件
-  * 有问题请至[Issue页面](https://github.com/dhawudh/Beta-Google/issues)反馈
+  * 有问题请至[Issue页面](https://github.com/dhawudh/Beta-GoogleVC/issues)反馈
   * 如需及时了解更新说明，请订阅Telegram频道:[🍰 整点蛋糕](https://t.me/dangaonie)
   * Telegram讨论组:[🍰 整点蛋糕 -群组](https://t.me/danggao)
 
@@ -32,4 +32,4 @@
   * Quantumult X:
     * [暂无]()
   * Surge:
-    * [🎾更好的定向](./Beta?raw=true "")
+    * [🎾更好的定向](./Beta?raw=true "Beat")
