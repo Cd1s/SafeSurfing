@@ -30,11 +30,12 @@
 
 ## 安装链接
   * Loon:
-    * [🎾更好的定向](./Beta-Loon?raw=true "Beat- Loon") 
-* Surge:
-    * [🎾更好的定向](./Beta-Surge?raw=true "Beat- Surge")    
-  * Quantumult X:  
-    * 暂无
+    * [DNS.plugin](./Beta-Loon?raw=true "Beta-Loon")
+  * Quantumult X:
+    * [🎾更好的定向](./Beta-QuanX?raw=true "Beta-QuanX")
+  * Surge:
+    * [🎾更好的定向](./Beta-Surge?raw=true "Beta-Surge")
+
  
 
 
