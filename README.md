@@ -2,7 +2,7 @@
   * 重定向插件
   * 有问题请至[Issue页面](https://github.com/dhawudh/Beta-GoogleVC/issues)反馈
   * 如需及时了解更新说明，请订阅Telegram频道:[🍰 整点蛋糕](https://t.me/dangaonie)
-  * Telegram讨论组:[🍰 整点蛋糕 -群组](https://t.me/danggao)
+  * Telegram讨论组:[🍰 整点蛋糕 -群组](https://t.me/dangaoNi)
 
 ---
 
@@ -32,8 +32,8 @@
   * Loon:
     * [🎾更好的定向](./Beta-Loon?raw=true "Beat- Loon") 
 * Surge:
-    * [🎾更好的定向](./Beta-Surge?raw=true "Beat- Surge")   
-  * Quantumult X:
+    * [🎾更好的定向](./Beta-Surge?raw=true "Beat- Surge")    
+  * Quantumult X:  
     * 暂无
  
 
