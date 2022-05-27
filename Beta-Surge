@@ -1,4 +1,4 @@
-#!name=🎾更好的定向V0.3.2.1 Beta
+#!name=🎾更好的定向V0.3.2.2 Beta
 #!desc=为您的网上冲浪护航
 #!author=dhawudh
 #!homepage=https://github.com/duawudh/blob/main/modules/Beta-GoogleVC/README.md
@@ -12,7 +12,7 @@
 ^https://youporn\.com https://v.superbed.cn/play/6290f5fa094754312963c45a header
 
 [MITM]
-hostname = %APPEND% *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn, www.91porn.com
+hostname = %APPEND% *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn, www.91porn.com, youporn.com
 
 [Rule]
 # URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,REJECT
