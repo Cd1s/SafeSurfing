@@ -11,7 +11,7 @@
 ^https://91porn\.com https://youtu.be/3l5Ag1ovRFY header
 
 [MITM]
-hostname = %APPEND% *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn， www.91porn.com
+hostname = %APPEND% *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn, www.91porn.com
 
 [Rule]
 URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,REJECT
