@@ -10,6 +10,7 @@
   - [简介](#简介)
   - [关于分流](#关于分流)
   - [使用说明](#使用说明)
+  - [效果演示](#效果演示)
   - [安装链接](#安装链接)
   - [特别鸣谢](#特别鸣谢)
 
@@ -33,6 +34,8 @@
   * 需要启用`重写`、`脚本`、`MitM`功能
   * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list)
 
+## 效果演示
+YouTube演示: https://youtu.be/DEXy5rHsAnY
 
 
 ## 安装链接
