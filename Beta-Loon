@@ -2,6 +2,7 @@
 #!desc=为您的网上冲浪护航
 #!author=dhawudh
 #!homepage=https://github.com/duawudh/blob/main/modules/Beta-GoogleVC/README.md
+#!icon=https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/IMG_4202.PNG
 
 [URL Rewrite]
 # Redirect Google Search Service
