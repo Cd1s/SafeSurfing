@@ -1,6 +1,6 @@
 # 🎾更好的定向
   * 重定向插件
-  * 有问题请至[Issue页面](https://github.com/dhawudh/Beta-GoogleVC/issues)反馈
+  * 有问题请至[Issue页面](https://github.com/dhawudh/GoogleVC/issues)反馈
   * 如需及时了解更新说明，请订阅Telegram频道:[🍰 整点蛋糕](https://t.me/GetSomeCakeChannel)
   * Telegram讨论组:[🍰 整点蛋糕 -群组](https://t.me/GetSomeCake)
 
@@ -32,7 +32,7 @@
 
 ## 使用说明
   * 需要启用`重写`、`脚本`、`MitM`功能
-  * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list)
+  * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/dhawudh/GoogleVC/main/PN.list)
 
 ## 效果演示
 YouTube演示: https://youtu.be/DEXy5rHsAnY
@@ -40,12 +40,12 @@ YouTube演示: https://youtu.be/DEXy5rHsAnY
 
 ## 安装链接
   * Loon:
-    * [🎾更好的定向](./Beta-Loon?raw=true "Beta-Loon")
+    * [🎾更好的定向](./Loon?raw=true "Loon")
   * Quantumult X:
-    * [🎾更好的定向](./Beta-QuanX?raw=true "Beta-QuanX")
-     * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list)
+    * [🎾更好的定向](./QuanX?raw=true "QuanX")
+     * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/dhawudh/GoogleVC/main/PN.list)
   * Surge:
-    * [🎾更好的定向](./Beta-Surge?raw=true "Beta-Surge")
+    * [🎾更好的定向](./Surge?raw=true "Surge")
 
  
 
