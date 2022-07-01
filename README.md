@@ -28,7 +28,7 @@
       * 打开91Porn.com为《大悲咒》的YouTube视频
        * 除以上网站外，域名带有Porn的网站将导向《葫芦娃》
     * WeChat分流为Direct 
-    * Google.cn重定向至bing.com 
+  
 
 ## 使用说明
   * 需要启用`重写`、`脚本`、`MitM`功能
