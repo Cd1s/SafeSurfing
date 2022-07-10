@@ -16,15 +16,13 @@
 
 ---
 ## 简介
-  * 完美解决设备地区为中国大陆时使用Safari浏览器
-    进行Google检索时需要二次点击才能显示结果
   * 屏蔽低俗令人讨厌的网站  
   * 优化部分软件分流  
 
 ## 关于分流
   * 默认设置色情网站导向Reject
   * 域名带Porn的网站导向Reject
-    * 打开cn.Pornhub.com为《Never Gonna Give You Up》的MV
+    * 打开Pornhub.com替换包括广告在內的所有的视频为《Never Gonna Give You Up》的MV
       * 打开91Porn.com为《大悲咒》的YouTube视频
        * 除以上网站外，域名带有Porn的网站将导向《葫芦娃》
     * WeChat分流为Direct 
