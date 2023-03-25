@@ -14,5 +14,5 @@ hostname = %APPEND% *onlyfans.com, *porn*, pornhub.com, *phncdn*
 
 [Rule]
 # URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,REJECT
-RULE-SET,https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/beta/PN.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list,REJECT
 
