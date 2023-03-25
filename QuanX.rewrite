@@ -13,6 +13,5 @@
 hostname = *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.google.cn, www.91porn.com, *phncdn*
 
 [filter_remote]
-https://raw.githubusercontent.com/dhawudh/Beta-GoogleVC/main/PN.list, tag=pn, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
-
-host-keyword, porn, reject
+https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list, tag=porn, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+; host-keyword, porn, reject
