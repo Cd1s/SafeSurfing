@@ -1,6 +1,6 @@
 # 🎾更好的定向
   * 重定向插件
-  * 有问题请至[Issue页面](https://github.com/DanielKipps/GoogleVC/issues)反馈
+
 
 
 ---
