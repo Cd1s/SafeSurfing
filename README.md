@@ -1,8 +1,7 @@
 # 🎾更好的定向
   * 重定向插件
   * 有问题请至[Issue页面](https://github.com/DanielKipps/GoogleVC/issues)反馈
-  * 如需及时了解更新说明，请订阅Telegram频道:[🍰 整点蛋糕](https://t.me/GetSomeCakeChannel)
-  * Telegram讨论组:[🍰 整点蛋糕 -群组](https://t.me/GetSomeCake)
+
 
 ---
 
@@ -16,21 +15,19 @@
 
 ---
 ## 简介
-  * 屏蔽低俗令人讨厌的网站  
-  * 优化部分软件分流  
+  * 屏蔽、重定向收录的Porn网站   
 
 ## 关于分流
   * 默认设置色情网站导向Reject
   * 域名带Porn的网站导向Reject
     * 打开Pornhub.com替换包括广告在內的所有的视频为《Never Gonna Give You Up》的MV
       * 打开91Porn.com为《大悲咒》的YouTube视频
-       * 除以上网站外，域名带有Porn的网站将导向《葫芦娃》
-    * WeChat分流为Direct 
+       * 除以上网站外，域名带有Porn的网站将导向《葫芦娃》 
   
 
 ## 使用说明
   * 需要启用`重写`、`脚本`、`MitM`功能
-  * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/DanielKipps/GoogleVC/main/PN.list)
+  * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list)
 
 ## 效果演示
 YouTube演示: https://youtu.be/DEXy5rHsAnY
@@ -38,12 +35,12 @@ YouTube演示: https://youtu.be/DEXy5rHsAnY
 
 ## 安装链接
   * Loon:
-    * [🎾更好的定向](./Loon?raw=true "Loon")
+    * [🎾更好的定向](./Loon.plugin?raw=true "Loon")
   * Quantumult X:
-    * [🎾更好的定向](./QuanX?raw=true "QuanX")
-     * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/DanielKipps/GoogleVC/main/PN.list)
+    * [🎾更好的定向](./QuanX.rewrite?raw=true "QuanX")
+     * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list)
   * Surge:
-    * [🎾更好的定向](./Surge?raw=true "Surge")
+    * [🎾更好的定向](./Surge.sgmodule?raw=true "Surge")
 
  
 
