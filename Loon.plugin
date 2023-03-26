@@ -1,8 +1,7 @@
 #!name=🎾不可以色色
-#!desc=(V0.4.1)绿色上网模块，请手动引用PN.list并设为REJECT
-#!open= https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list
-#!author=DanielKipps
-#!homepage=https://github.com/DanielKipps
+#!desc=(V0.4.1)绿色上网模块，请将插件PROXY设为REJECT
+#!author=dhawudh
+#!homepage=https://github.com/dhawudh
 #!icon=https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/1000.webp
 
 [URL Rewrite]
