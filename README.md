@@ -1,6 +1,6 @@
 # 🎾不可以色色
   * 绿色上网模块
-=======
+
 
 
 
@@ -35,12 +35,12 @@ YouTube演示: https://youtu.be/DEXy5rHsAnY
 
 ## 安装链接
   * Loon:
-    * [🎾更好的定向](./Loon.plugin?raw=true "Loon")
+    * [🎾不可以色色](./Loon.plugin?raw=true "Loon")
   * Quantumult X:
-    * [🎾更好的定向](./QuanX.rewrite?raw=true "QuanX")
+    * [🎾不可以色色](./QuanX.rewrite?raw=true "QuanX")
      * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/Clearlove4396777/SafeSurfing/main/PN.list),并将策略设为REJECT
   * Surge:
-    * [🎾更好的定向](./Surge.sgmodule?raw=true "Surge")
+    * [🎾不可以色色](./Surge.sgmodule?raw=true "Surge")
 
  
 
