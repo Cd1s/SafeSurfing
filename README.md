@@ -1,5 +1,5 @@
-# 🎾更好的定向
-  * 重定向插件
+# 🎾不可以色色
+  * 绿色上网模块
 
 
 
@@ -26,7 +26,7 @@
 
 ## 使用说明
   * 需要启用`重写`、`脚本`、`MitM`功能
-  * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list)
+  * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list),并将策略设为REJECT
 
 ## 效果演示
 YouTube演示: https://youtu.be/DEXy5rHsAnY
@@ -37,7 +37,7 @@ YouTube演示: https://youtu.be/DEXy5rHsAnY
     * [🎾更好的定向](./Loon.plugin?raw=true "Loon")
   * Quantumult X:
     * [🎾更好的定向](./QuanX.rewrite?raw=true "QuanX")
-     * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list)
+     * 由于Quantumult X无法通过模块引用远程策略组，请手动引用[PN.list](https://raw.githubusercontent.com/Clearlove4396777/GoogleVC/main/PN.list),并将策略设为REJECT
   * Surge:
     * [🎾更好的定向](./Surge.sgmodule?raw=true "Surge")
 
