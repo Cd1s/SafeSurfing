@@ -2,7 +2,7 @@
 #!desc=(V0.4.2)绿色上网插件，请将插件PROXY设为REJECT
 #!author=dhawudh
 #!homepage=https://github.com/dhawudh
-#!icon=https://raw.githubusercontent.com/Clearlove4396777/SafeSurfing/main/1000.webp
+#!icon=https://raw.githubusercontent.com/ClearLuv/SafeSurfing/main/1000.webp
 
 [URL Rewrite]
 

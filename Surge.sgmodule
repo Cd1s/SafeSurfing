@@ -18,6 +18,7 @@ hostname = %APPEND% *porn*,91porn.com, pornhub.com, jable.tv,assets-cdn.jable.tv
 
 [Rule]
 # URL-REGEX,^https://(?!.*(pornhub|91porn)).*(porn)\.com,REJECT
-RULE-SET,https://raw.githubusercontent.com/Clearlove4396777/SafeSurfing/beta/PN.list,REJECT
+RULE-SET,https://raw.githubusercontent.com/ClearLuv/SafeSurfing/main/PN.list,REJECT
+
 
 
