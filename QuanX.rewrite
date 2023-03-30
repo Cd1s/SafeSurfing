@@ -1,13 +1,18 @@
 #!name=🎾不可以色色
-#!desc=(V0.4.1)绿色上网重写
+#!desc=(V0.4.2)绿色上网重写
 #!author=dhawudh
 #!homepage=https://github.com/dhawudh
 
 
-^https://*.*phncdn.*mp4 url 302 https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2021-07-12T02%3A14%3A24Z%2F-1%2Fhost%2F530146520a1c89fb727fbbdb8a0e0c98ec69955459ae
+^https:\/\/.+?.phncdn.com\/.+?\.mp4 url 302 https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4
 ; ^https://cn\.pornhub\.com https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2021-07-12T02%3A14%3A24Z%2F-1%2Fhost%2F530146520a1c89fb727fbbdb8a0e0c98ec69955459ae header
 ^https://91porn\.com url 302 https://youtu.be/3l5Ag1ovRFY
 ^(https?://).(?!.*(pornhub|91porn)).*(porn).*$ url 302 $1dl-web.dropbox.com/s/tvcar9i4psmjbhd/4K%E4%BF%AE%E5%A4%8D%20%20%E8%BF%BD%E5%AF%BB%E7%BB%8F%E5%85%B8%E5%9B%9E%E5%BF%86%E7%AB%A5%E5%B9%B4%20%E8%91%AB%E8%8A%A6%E5%A8%83%20%E5%85%A8%E7%BD%91%E6%9C%80%E6%B8%85%E6%99%B0%E7%89%88%E6%9C%AC%20-%20001%20-%204K%E4%BF%AE%E5%A4%8D%20%20%E8%BF%BD%E5%AF%BB%E7%BB%8F%E5%85%B8%E5%9B%9E%E5%BF%86%E7%AB%A5%E5%B9%B4%20%E8%91%AB%E8%8A%A6%E5%A8%83%20%E5%85%A8%E7%BD%91%E6%9C%80%E6%B8%85%E6%99%B0%E7%89%88%E6%9C%AC.mp4
+#jable.tv资源替换
+^https?:\/\/assets-cdn.jable.tv\/contents\/videos_screenshots\/.+?\.jpg$ url 302 https://raw.githubusercontent.com/ClearLuv/SafeSurfing/beta/resources/1.jpg
+^https?:\/\/assets-cdn.jable.tv\/contents\/videos_screenshots\/.+?preview\.mp4$ url 302 https://raw.githubusercontent.com/ClearLuv/SafeSurfing/blob/beta/resources/preview.mp4
+^https?:\/\/assets-cdn.jable.tv\/contents\/categories\/.+?\.jpg$ url 302 https://raw.githubusercontent.com/ClearLuv/SafeSurfing/beta/resources/catagory.jpg
+^https?:\/\/jable.tv\/videos\/.+?$ url 302 https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4
 
 [MITM]
-hostname = *onlyfans.com, *porn.com, pornhub.com, cn.pornhub.com, www.91porn.com, *phncdn*
+hostname = *.phncdn.com,91porn.com, pornhub.com, jable.tv,assets-cdn.jable.tv,*porn*
