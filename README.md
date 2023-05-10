@@ -21,8 +21,8 @@
 ## 关于分流
   * 默认设置色情网站导向Reject
     * 打开Pornhub.com、jable.tv替换包括广告在內的所有的视频为《Never Gonna Give You Up》的MV
-      * 打开91Porn.com为《大悲咒》的YouTube视频
-       * 除以上网站外，域名带有Porn的网站将导向《葫芦娃》 
+    * 打开91Porn.com为《大悲咒》的YouTube视频
+    * 除以上网站外，域名带有Porn的网站将导向《葫芦娃》 
   
 
 ## 使用说明
